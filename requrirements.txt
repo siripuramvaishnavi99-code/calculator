@@ -1,0 +1,8 @@
+Software Requirements:
+- Python 3.x
+- Tkinter (built-in)
+- Math module (built-in)
+
+Hardware Requirements:
+- Any system with 2GB RAM or higher
+- Windows / Linux / macOS
